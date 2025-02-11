@@ -83,9 +83,11 @@ export default function Services() {
         <p className="mt-4 text-lg text-gray-300">
           Hubungi kami sekarang dan wujudkan ide digital Anda bersama Youth Ware.
         </p>
-        <button className="mt-6 px-6 py-3 bg-primary text-white rounded-lg shadow-md hover:bg-primary-dark transition">
-          Contact Us
-        </button>
+        <div className="mt-16">
+          <a href="#contact" className="px-6 py-3 bg-white text-black rounded-lg shadow-md hover:bg-gray-200 transition">
+            Contact Us
+          </a>
+        </div>
       </div>
     </section>
   );

@@ -44,7 +44,7 @@ export default function Navbar() {
               <img
                 src="/youthware-logo.png"
                 alt="Youth Ware Logo"
-                className="h-12 w-auto object-cover"
+                className="h-12 w-auto object-cover zoom-200"
               />
             </Link>
           </div>

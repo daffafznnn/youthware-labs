@@ -34,30 +34,6 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Image / Video Section */}
-        {/* <div className="relative mt-12 grid grid-cols-12 gap-4 sm:gap-8 md:gap-12">
-          <div className="col-span-12 md:col-span-10">
-            <div className="aspect-video overflow-clip rounded-lg border border-border bg-white shadow-md"></div>
-          </div>
-          <div className="absolute inset-0">
-            <div className="grid h-full grid-cols-12 gap-4 sm:gap-8 md:gap-12">
-              <div className="col-span-12 sm:col-span-10 sm:col-start-2 -mt-6 flex items-start justify-center md:col-span-6 md:col-end-12 lg:-mt-12 lg:items-start">
-                <div className="absolute h-auto w-full max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl rounded-lg bg-zinc-900 p-4 shadow-lg">
-                  <pre className="font-mono text-xs leading-normal text-accent [mask-image:linear-gradient(to_right,#000_80%,transparent_100%)]">
-                    <code>
-                      curl &#x27;https://api.example.com/v1/endpoint&#x27; \
-                      -X POST \
-                      -u username:password \
-                      -d param_1=1001 \
-                      -d param_3=true \
-                      -d param_2=&quot;Donec quis lorem ligula.&quot;
-                    </code>
-                  </pre>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> */}
       </div>
     </section>
   );
